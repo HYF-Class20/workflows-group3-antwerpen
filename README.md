@@ -13,7 +13,7 @@ and to :point_right: **Help** :point_left: each other on this journey .
 :red_haired_woman:
 [Betül](https://github.com/HYF-Class20/workflows-group3-intro)
 :white_haired_woman:
-[Sarah](https://github.com/HYF-Class20/workflows-group3-intro)
+[Sarah](https://github.com/HYF-Class20/workflows-group3-intro/blob/sarah/info/sarah.md)
 
 :person_curly_hair:
 [Mohammed](https://github.com/HYF-Class20/workflows-group3-intro) :man_beard:
